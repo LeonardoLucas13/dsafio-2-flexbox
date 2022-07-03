@@ -1,1 +1,2 @@
-# dsafio-2-flexbox
+# Segundo desafio Dio
+Nesse desafio utilizamos flex box.
